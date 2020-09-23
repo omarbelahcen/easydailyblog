@@ -1,0 +1,2 @@
+# easydailyblog
+Blog
