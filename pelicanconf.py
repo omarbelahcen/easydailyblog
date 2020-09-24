@@ -6,6 +6,8 @@ SITENAME = 'easydailydev'
 SITEURL = ''
 
 PATH = 'content'
+THEME = 'attila'
+HEADER_COVER = 'images/wallpaper.jpg'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -33,7 +35,7 @@ DEFAULT_PAGINATION = False
 STATIC_PATHS = ['images']
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
